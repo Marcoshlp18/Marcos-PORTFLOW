@@ -186,7 +186,6 @@ footer{
   margin-left: 1px;
 }
 .ul-redes{
-  background-color: #7FDBD4;
   display: inline-flex;
   margin-left: 2rem;
 }
@@ -427,6 +426,7 @@ header{
 .ul-redes{
 margin-left: 20px;
 border-radius: 10px;
+ackground-color: #7FDBD4;
 }
 .ul-redes li{
  margin-left: 8px;
